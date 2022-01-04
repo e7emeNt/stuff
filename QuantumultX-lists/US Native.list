@@ -1,4 +1,9 @@
 # > US Native
+USER-AGENT,LinkedIn*
+USER-AGENT,Nike*
+USER-AGENT,PayPal*
+USER-AGENT,BestBuy*
+USER-AGENT,Walmart*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,nike.com
