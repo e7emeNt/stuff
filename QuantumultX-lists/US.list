@@ -4,7 +4,7 @@ USER-AGENT,Nike*
 USER-AGENT,PayPal*
 USER-AGENT,BestBuy*
 USER-AGENT,Walmart*
-USER-AGENT,Truth Social*
+USER-AGENT,TruthSocial*
 # USER-AGENT,Spotify*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,linkedin.com
