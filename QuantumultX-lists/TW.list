@@ -1,4 +1,8 @@
-# > KOREA
+# > TW
 USER-AGENT,Binance*
+USER-AGENT,OKx*
+USER-AGENT,OKEx*
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
